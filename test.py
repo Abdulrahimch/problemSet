@@ -13,4 +13,4 @@ def func(first_name, last_name):
 if __name__ == '__main__':
     func(parse.first_name, parse.last_name)
 
-'Hello everybody how are you'
+'Hi there'
